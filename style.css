@@ -1,0 +1,99 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Quantico', sans-serif;
+    }
+
+p {
+    color: white;
+    font-family: 'Quantico', sans-serif;
+    font-size: 40px;
+}
+h1 {
+    font-family: 'Quantico', sans-serif;
+    font-weight: bolder;
+    font-size: 80px;
+}
+h2 {
+    font-family: 'Quantico', sans-serif;
+    font-weight: bolder;
+    font-size: 70px;
+}
+
+h3 {
+    font-family: 'Quantico', sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+}
+.quote {
+    font-size: 35px;
+    font-family: 'Quantico', sans-serif;
+    font-style: italic;
+}
+
+.imagewrapper {
+    display: flex;
+    padding-inline-start: 5%;
+    font-size: 40px;
+  }
+#nightingalecaption{
+    font-style: italic;
+}
+
+.figurewrapper {
+    display: flex;
+    padding-inline-start: 2%;
+    font-size: 30px;
+}
+
+#overtone {
+    padding-right:5%;
+}
+
+#spectrogram {
+    padding-top: 15%;
+    padding-left: 10%;
+}
+
+.buttons {
+    background-color: black;
+    font-size: 25px;
+    color: white;
+    font-family: 'Quantico', sans-serif;
+}
+
+.header {
+    font-size: 60px;
+    padding-top: 2%;
+}
+
+.table {
+    display: inline-flex;
+    padding-inline-start: 30%;
+    font-size: 35px;
+}
+
+th, td {
+    padding: 10px;
+    padding-left: 5%;
+    border: 1px white;
+  }
+
+.songfile {
+    padding-inline-start: 5%;
+    padding-bottom: 10%;
+}
+
+.acknowledgements {
+    font-size: 30px;
+}
+
+#referencecontent {
+    font-size: 30px;
+    padding-top: 0%;
+}
+
+#referenceheader {
+    font-size: 40px;
+    padding-bottom: 0%;
+}
